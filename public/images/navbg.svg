@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1304 450" style="enable-background:new 0 0 1304 450;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#b);}
+	.st1{fill:url(#SVGID_1_);}
+</style>
+<filter  filterUnits="userSpaceOnUse" height="469.983" id="b" width="1363.999" x="0" y="0">
+	<feOffset  dy="40" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="c" stdDeviation="20"></feGaussianBlur>
+	<feFlood  flood-color="#c5c3f9" flood-opacity="0.149"></feFlood>
+	<feComposite  in2="c" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" class="st0">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1906.3525" y1="1508.9517" x2="-1907.2905" y2="1508.3247" gradientTransform="matrix(1244 0 0 -349.9861 2372947 528133.5625)">
+		<stop  offset="0" style="stop-color:#A5A2F6"/>
+		<stop  offset="1" style="stop-color:#3D37F1"/>
+	</linearGradient>
+	<path class="st1" d="M1034.9,339.9C802,292,814,239,642,198s-267.3-16.7-428.6-50.4C88.6,121.7,64.5,37.9,60,1.4V0h1244v328.2
+		c-50.6,12.7-107.3,21.7-166.1,21.7C1103.3,350.1,1068.8,346.8,1034.9,339.9z"/>
+</g>
+</svg>
