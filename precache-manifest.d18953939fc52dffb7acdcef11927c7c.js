@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cf478482c4f8aee7498be2e9ea4494d",
+    "revision": "723cb023c96b3379b2bf85f1cbea3f1c",
     "url": "/React-webexperts/index.html"
   },
   {
-    "revision": "e098f478b037c9421ed4",
+    "revision": "c1ef89accbcd581414ec",
     "url": "/React-webexperts/static/css/2.2c15e7f0.chunk.css"
   },
   {
-    "revision": "b9047ca7b6b3c235ca67",
-    "url": "/React-webexperts/static/css/main.176bcbdd.chunk.css"
+    "revision": "ae01ab95e12bc91c3b3e",
+    "url": "/React-webexperts/static/css/main.5877a73a.chunk.css"
   },
   {
-    "revision": "e098f478b037c9421ed4",
-    "url": "/React-webexperts/static/js/2.2a62a0d3.chunk.js"
+    "revision": "c1ef89accbcd581414ec",
+    "url": "/React-webexperts/static/js/2.b303648f.chunk.js"
   },
   {
-    "revision": "b9047ca7b6b3c235ca67",
-    "url": "/React-webexperts/static/js/main.b2e24ba4.chunk.js"
+    "revision": "ae01ab95e12bc91c3b3e",
+    "url": "/React-webexperts/static/js/main.e856f89a.chunk.js"
   },
   {
     "revision": "bd239fdf74bb25325013",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "966a156b2348ad6c414a810420dd7332",
     "url": "/React-webexperts/static/media/About.966a156b.svg"
+  },
+  {
+    "revision": "0971430b38b86c8287010a50f155990b",
+    "url": "/React-webexperts/static/media/Hero.0971430b.svg"
   },
   {
     "revision": "467a130adec9d00de2666d7f1a4ab9f7",
